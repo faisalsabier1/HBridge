@@ -28,3 +28,8 @@ In this project it was asked to design a power circuit to control 2 motors using
 - https://electronics.stackexchange.com/questions/132720/how-do-i-find-the-voltage-range-for-an-unknown-dc-motor
 - https://www.circuitspecialists.com/blog/stepper-motor-power-supplies/
 - https://www.circuitstoday.com/24v-lead-acid-battery-charger-circuit
+
+# Contact:
+
+Faisal Harith Saber
+Email: FaisalSaber@ieee.org 
