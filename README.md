@@ -31,5 +31,5 @@ In this project it was asked to design a power circuit to control 2 motors using
 
 # Contact:
 
-Faisal Harith Saber
-Email: FaisalSaber@ieee.org 
+ Faisal Harith Saber
+ Email: FaisalSaber@ieee.org 
